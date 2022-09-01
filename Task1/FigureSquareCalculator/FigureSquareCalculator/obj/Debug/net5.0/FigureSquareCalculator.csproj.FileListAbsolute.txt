@@ -1,0 +1,12 @@
+D:\Programming\Тестовые\Mindbox\Task1\FigureSquareCalculator\FigureSquareCalculator\bin\Debug\net5.0\FigureSquareCalculator.deps.json
+D:\Programming\Тестовые\Mindbox\Task1\FigureSquareCalculator\FigureSquareCalculator\bin\Debug\net5.0\FigureSquareCalculator.dll
+D:\Programming\Тестовые\Mindbox\Task1\FigureSquareCalculator\FigureSquareCalculator\bin\Debug\net5.0\ref\FigureSquareCalculator.dll
+D:\Programming\Тестовые\Mindbox\Task1\FigureSquareCalculator\FigureSquareCalculator\bin\Debug\net5.0\FigureSquareCalculator.pdb
+D:\Programming\Тестовые\Mindbox\Task1\FigureSquareCalculator\FigureSquareCalculator\obj\Debug\net5.0\FigureSquareCalculator.csproj.AssemblyReference.cache
+D:\Programming\Тестовые\Mindbox\Task1\FigureSquareCalculator\FigureSquareCalculator\obj\Debug\net5.0\FigureSquareCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Тестовые\Mindbox\Task1\FigureSquareCalculator\FigureSquareCalculator\obj\Debug\net5.0\FigureSquareCalculator.AssemblyInfoInputs.cache
+D:\Programming\Тестовые\Mindbox\Task1\FigureSquareCalculator\FigureSquareCalculator\obj\Debug\net5.0\FigureSquareCalculator.AssemblyInfo.cs
+D:\Programming\Тестовые\Mindbox\Task1\FigureSquareCalculator\FigureSquareCalculator\obj\Debug\net5.0\FigureSquareCalculator.csproj.CoreCompileInputs.cache
+D:\Programming\Тестовые\Mindbox\Task1\FigureSquareCalculator\FigureSquareCalculator\obj\Debug\net5.0\FigureSquareCalculator.dll
+D:\Programming\Тестовые\Mindbox\Task1\FigureSquareCalculator\FigureSquareCalculator\obj\Debug\net5.0\ref\FigureSquareCalculator.dll
+D:\Programming\Тестовые\Mindbox\Task1\FigureSquareCalculator\FigureSquareCalculator\obj\Debug\net5.0\FigureSquareCalculator.pdb
